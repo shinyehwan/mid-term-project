@@ -1,0 +1,19 @@
+{
+  "name": "mid-term-project",
+  "version": "1.0.0",
+  "description": "단국대학교 오픈SW활용",
+  "main": "introduce.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinyehwan/mid-term-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shinyehwan/mid-term-project/issues"
+  },
+  "homepage": "https://github.com/shinyehwan/mid-term-project#readme"
+}
