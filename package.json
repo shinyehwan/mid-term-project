@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shinyehwan/mid-term-project/issues"
   },
-  "homepage": "https://github.com/shinyehwan/mid-term-project#readme"
+  "homepage": "https://github.com/shinyehwan/mid-term-project#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
